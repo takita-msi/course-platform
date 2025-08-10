@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "すべて",
+      "color": "#6B7280"
+    },
+    {
+      "id": "nextjs",
+      "name": "Next.js",
+      "color": "#A855F7"
+    },
+    {
+      "id": "cloud-code",
+      "name": "Cloud Code",
+      "color": "#3B82F6"
+    },
+    {
+      "id": "react",
+      "name": "React",
+      "color": "#EC4899"
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "color": "#10B981"
+    },
+    {
+      "id": "fullstack",
+      "name": "フルスタック",
+      "color": "#F59E0B"
+    }
+  ]
+}

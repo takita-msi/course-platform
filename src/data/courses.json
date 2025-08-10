@@ -1,0 +1,280 @@
+{
+  "courses": [
+    {
+      "id": "nextjs-15-complete",
+      "title": "Next.js 15 完全マスター講座",
+      "description": "最新のNext.js 15の機能を包括的に学習します。App Router、Server Components、新しいキャッシング戦略まで実践的に習得できる完全版コースです。",
+      "category": "nextjs",
+      "thumbnail": "/thumbnails/nextjs-complete.jpg",
+      "estimatedHours": 28,
+      "videoCount": 42,
+      "videos": [
+        {
+          "id": "vid-001",
+          "title": "Next.js 15 概要とセットアップ",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "15:30",
+          "order": 1
+        },
+        {
+          "id": "vid-002",
+          "title": "App Routerの基本概念",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "22:45",
+          "order": 2
+        },
+        {
+          "id": "vid-003",
+          "title": "Server Componentsの活用方法",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "18:12",
+          "order": 3
+        },
+        {
+          "id": "vid-004",
+          "title": "Dynamic Routingとパラメータ",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "25:33",
+          "order": 4
+        },
+        {
+          "id": "vid-005",
+          "title": "レイアウトとネスティング",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "19:27",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "cloud-code-aws-practical",
+      "title": "Cloud Code & AWS実践講座",
+      "description": "Google Cloud CodeとAWSを使った実践的なクラウド開発手法を学習します。CI/CDパイプライン構築からデプロイ自動化まで、現場で使える技術を習得できます。",
+      "category": "cloud-code",
+      "thumbnail": "/thumbnails/cloud-code-aws.jpg",
+      "estimatedHours": 35,
+      "videoCount": 48,
+      "videos": [
+        {
+          "id": "vid-101",
+          "title": "Cloud Code環境セットアップ",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "20:15",
+          "order": 1
+        },
+        {
+          "id": "vid-102",
+          "title": "AWSアカウント設定とIAM",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "28:42",
+          "order": 2
+        },
+        {
+          "id": "vid-103",
+          "title": "Docker containerの作成と管理",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "32:18",
+          "order": 3
+        },
+        {
+          "id": "vid-104",
+          "title": "Kubernetesクラスター構築",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "45:12",
+          "order": 4
+        },
+        {
+          "id": "vid-105",
+          "title": "CI/CDパイプライン設計",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "38:55",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "react-19-new-features",
+      "title": "React 19 新機能解説",
+      "description": "React 19で追加された最新機能を詳しく解説します。Concurrent Features、新しいHooks、パフォーマンス改善など、モダンReact開発に必要な知識を網羅しています。",
+      "category": "react",
+      "thumbnail": "/thumbnails/react-19.jpg",
+      "estimatedHours": 22,
+      "videoCount": 35,
+      "videos": [
+        {
+          "id": "vid-201",
+          "title": "React 19 新機能概要",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "16:25",
+          "order": 1
+        },
+        {
+          "id": "vid-202",
+          "title": "Concurrent Rendering詳解",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "24:18",
+          "order": 2
+        },
+        {
+          "id": "vid-203",
+          "title": "useTransitionとuseDeferredValue",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "21:33",
+          "order": 3
+        },
+        {
+          "id": "vid-204",
+          "title": "Suspenseの進化",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "29:47",
+          "order": 4
+        },
+        {
+          "id": "vid-205",
+          "title": "パフォーマンス最適化手法",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "33:12",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "typescript-practical-intro",
+      "title": "TypeScript実践入門",
+      "description": "TypeScriptの基礎から実践的な活用まで段階的に学習します。型システムの理解から、React + TypeScriptでの開発手法まで、現場で即戦力となるスキルを身につけられます。",
+      "category": "typescript",
+      "thumbnail": "/thumbnails/typescript-intro.jpg",
+      "estimatedHours": 18,
+      "videoCount": 30,
+      "videos": [
+        {
+          "id": "vid-301",
+          "title": "TypeScript環境構築",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "12:30",
+          "order": 1
+        },
+        {
+          "id": "vid-302",
+          "title": "基本的な型システム",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "18:45",
+          "order": 2
+        },
+        {
+          "id": "vid-303",
+          "title": "interfaceとtype alias",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "22:18",
+          "order": 3
+        },
+        {
+          "id": "vid-304",
+          "title": "ジェネリクスの活用",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "26:42",
+          "order": 4
+        },
+        {
+          "id": "vid-305",
+          "title": "React + TypeScript実践",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "35:15",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "fullstack-development-intro",
+      "title": "フルスタック開発入門",
+      "description": "フロントエンドからバックエンドまで、Webアプリケーション開発の全工程を学習します。Next.js、Prisma、PostgreSQLを使った実践的なアプリケーション構築を体験できます。",
+      "category": "fullstack",
+      "thumbnail": "/thumbnails/fullstack-intro.jpg",
+      "estimatedHours": 42,
+      "videoCount": 55,
+      "videos": [
+        {
+          "id": "vid-401",
+          "title": "フルスタック開発概要",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "14:22",
+          "order": 1
+        },
+        {
+          "id": "vid-402",
+          "title": "データベース設計基礎",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "28:15",
+          "order": 2
+        },
+        {
+          "id": "vid-403",
+          "title": "Prisma ORM入門",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "32:48",
+          "order": 3
+        },
+        {
+          "id": "vid-404",
+          "title": "API Routes実装",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "25:33",
+          "order": 4
+        },
+        {
+          "id": "vid-405",
+          "title": "認証システム構築",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "38:47",
+          "order": 5
+        }
+      ]
+    },
+    {
+      "id": "modern-frontend-patterns",
+      "title": "モダンフロントエンド設計パターン",
+      "description": "現代的なフロントエンド開発で使われる設計パターンとアーキテクチャを学習します。状態管理、コンポーネント設計、テスト戦略など、スケーラブルなアプリケーション構築手法を習得できます。",
+      "category": "react",
+      "thumbnail": "/thumbnails/modern-frontend.jpg",
+      "estimatedHours": 25,
+      "videoCount": 38,
+      "videos": [
+        {
+          "id": "vid-501",
+          "title": "フロントエンドアーキテクチャ概要",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "19:30",
+          "order": 1
+        },
+        {
+          "id": "vid-502",
+          "title": "コンポーネント設計原則",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "26:42",
+          "order": 2
+        },
+        {
+          "id": "vid-503",
+          "title": "状態管理パターン比較",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "31:15",
+          "order": 3
+        },
+        {
+          "id": "vid-504",
+          "title": "カスタムフック活用術",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "24:18",
+          "order": 4
+        },
+        {
+          "id": "vid-505",
+          "title": "テスト駆動開発実践",
+          "youtubeId": "dQw4w9WgXcQ",
+          "duration": "42:33",
+          "order": 5
+        }
+      ]
+    }
+  ]
+}
